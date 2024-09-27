@@ -5,7 +5,7 @@ This is a collection of python notebooks that perform common tasks and demonstra
 - They are designed to require no setup from the user (click-and-play): all of the packages needed to run the notebooks are imported and installed at the top of each notebook. 
     - This means that anyone can run the notebook succesfully, however each notebook can take a few moments to set up.
     - Mainly concieved of as examples and as a means of trying things out, the next step would be to use these notebooks as a base for writing your own scripts of notebooks.
-    - To keep things clean, we have also created two repos which are python packages containing common utility functions (one for [Colab](), one for [JupyterLab]()).
+    - To keep things clean, we have also created two repos which are python packages containing common utility functions (one for [Colab](https://github.com/arvest-data-in-context/gcu), one for [JupyterLab](https://github.com/arvest-data-in-context/jlu)).
 - These notebooks are notably great for a workshop or pedagogical setting.
 
 1. [ML Map](#ml-map)

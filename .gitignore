@@ -3,3 +3,8 @@ sources
 output
 models
 *.DS_Store
+jupyter/.ipynb_checkpoints
+jupyter/projects
+jupyter/workflows
+colab/projects
+colab/workflows
