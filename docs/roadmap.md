@@ -5,7 +5,7 @@
 - ✅ : Implemented and useable.
 
 1. [Modules](#modules): the building blocks of machine learning workflows broken down into individual notebooks.
-2. [Workflows](#workflows): different modules chained together in larger workbooks representing common DH workflows.
+2. [Workflows](#workflows): different modules chained together in larger notebooks representing common DH workflows.
 
 ## Modules
 

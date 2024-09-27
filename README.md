@@ -17,6 +17,34 @@ This is a collection of python notebooks that perform common tasks and demonstra
 
 This project is part of a larger effort to map the different workflows that are possible in the digital humanities thanks to machine learning. For an interactive map that gives an overview of the contents of this repo, please look [here](www.arvest.learn/ml).
 
+The notebooks are broken down into modules (the building blocks of machine learning workflows) and workflows (different modules chained together in larger notebooks representing common DH workflows). 
+
+### Modules
+
+1. **Source Extraction**: notebooks for finding sources from things like websites or online databases.
+
+2. **Conversion**: notebooks for converting media into different formats.
+
+3. **Decomposition**: notebooks for breaking down media across different dimensions.
+
+4. **Feature Extraction**: notebooks for extracting data out of media.
+
+5. **Database Management**: notebooks for dealing with large collections of data.
+
+6. **Collection Processing**: notebooks for performing processing tasks on large collections of data.
+
+7. **Visualization**: notebooks for visualizing data.
+
+8. **Other**: ad hoc methods that don't fall easily into the other categories.
+
+### Workflows:
+
+1. **Distant Reading**: various workflows for making the computer read and extract data from written sources.
+
+2. **Distant Viewing**: various workflows for making the computer view and extract data from visual sources.
+
+3. **Distant Listening**: various workflows for making the computer listen and extract data from audio sources.
+
 ## 2. Using the notebooks
 
 ### In Google Colabs
