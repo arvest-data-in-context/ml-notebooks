@@ -3,7 +3,5 @@ sources
 output
 models
 *.DS_Store
-jupyter/.ipynb_checkpoints
-jupyter/OLD
-colab/OLD
 .ipynb_checkpoints
+OLD
