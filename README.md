@@ -51,19 +51,19 @@ The notebooks are broken down into modules (the building blocks of machine learn
 
 1. Go to [Google Colabs](https://colab.research.google.com/).
 
-2. File > Open notebook > GitHub > Paste the url of this repo (https://github.com/arvest-data-in-context/ml-notebooks).
+2. File > Open notebook > GitHub > Paste the url of this repo (https://github.com/arvest-data-in-context/ml-notebooks) (make sure to choose the `main` branch, and not `jupyter`).
 
-3. Run the notebook you want from the [colab](/colab/) folder.
+3. Choose a notebook to run.
 
 ### In JupyterLab
 
-1. Clone or download this repo onto your machine.
+1. Clone or download this repo onto your machine (make sure to choose the `jupyter` branch, and not `main`).
 
 2. Download [Anaconda](https://www.anaconda.com/).
 
 3. Launch JupyterLab from the Anaconda-Navigator.
 
-4. Run the notebook you want from the [jupyter](/jupyter/) folder.
+4. Choose a notebook to run.
 
 ## 3. Projects
 
