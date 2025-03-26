@@ -15,7 +15,7 @@ This is a collection of python notebooks that perform common tasks and demonstra
 
 ## 1. ML Map
 
-This project is part of a larger effort to map the different workflows that are possible in the digital humanities thanks to machine learning. For an interactive map that gives an overview of the contents of this repo, please look [here](www.arvest.learn/ml).
+This project is part of a larger effort to map the different workflows that are possible in the digital humanities thanks to machine learning. For an interactive map that gives an overview of the contents of this repo, please look [here](https://arvest.app/en/api/ml).
 
 The notebooks are broken down into modules (the building blocks of machine learning workflows) and workflows (different modules chained together in larger notebooks representing common DH workflows). 
 
@@ -69,7 +69,7 @@ The notebooks are broken down into modules (the building blocks of machine learn
 
 A number of different research projects drove the writing of these notebooks. Some notebooks from these projects are included in this repo.
 
-- [Arvest](https://arvest.gitpages.huma-num.fr/): these notebooks were written in the context of the development of Arvest, an environment for manipulation networks of digital traces.
+- [Arvest](https://arvest.app): these notebooks were written in the context of the development of Arvest, an environment for the manipulation of networks of digital traces.
 
 ## Roadmap
 
