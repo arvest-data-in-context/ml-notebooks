@@ -5,3 +5,5 @@ models
 *.DS_Store
 .ipynb_checkpoints
 OLD
+
+*login_private.json
