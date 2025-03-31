@@ -1159,6 +1159,2146 @@
                     "bit_depth": 8
                 }
             }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34344v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 715,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34344_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34345v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 716,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34345_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34346v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 734,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34346_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34347v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 731,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34347_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34348v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 729,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34348_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34349v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 718,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34349_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34350v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34350_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34351v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 721,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34351_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33864v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33864_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34352v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 728,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34352_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34353v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 731,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34353_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34368v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34368_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34369v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 716,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34369_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34370v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 731,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34370_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34371v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 717,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34371_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34372v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 715,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34372_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34373v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 724,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34373_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34374v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 724,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34374_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34375v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 742,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34375_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 109,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33865v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 730,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33865_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34393v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 729,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34393_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34394v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 730,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34394_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34395v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 730,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34395_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34396v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 720,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34396_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34397v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 730,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34397_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34398v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34398_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34399v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 718,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34399_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34295v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 728,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34295_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34400/1a34400v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 726,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34400/1a34400_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34400/1a34401v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 721,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34400/1a34401_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33866v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33866_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34400/1a34402v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 718,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34400/1a34402_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34376v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 740,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34376_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 108,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34377v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 722,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34377_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34378v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 717,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34378_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34379v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 723,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34379_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34380v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 722,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34380_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34381v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 711,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34381_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 104,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34382v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 726,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34382_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34383v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 711,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34383_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 104,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34384v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 724,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34384_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33867v.jpg",
+            "data": {
+                "width": 733,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33867_150px.jpg",
+                "data": {
+                    "width": 107,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34385v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 726,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34385_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34386v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 718,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34386_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34387v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 732,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34387_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34388v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34388_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34389v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 728,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34389_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34390v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 710,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34390_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 104,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34391v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 721,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34391_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34392v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 728,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34392_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34296v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 721,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34296_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34297v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 714,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34297_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33850v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 720,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33850_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33868v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 721,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33868_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34298v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 724,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34298_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34299v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 736,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34299_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 108,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34300v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 721,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34300_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34301v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 728,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34301_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34302v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 722,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34302_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34303v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 730,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34300/1a34303_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/69000/69091v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 692,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/69000/69091_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 101,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34206v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 729,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34206_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34221v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 722,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34221_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34207v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 733,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34207_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33869v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 729,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33869_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34208v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 724,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34208_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34222v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 829,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34222_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 121,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34209v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 725,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34209_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34223v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 716,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34223_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34210v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 822,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34210_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 120,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34211v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 723,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34211_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34212v.jpg",
+            "data": {
+                "width": 724,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34212_150px.jpg",
+                "data": {
+                    "width": 106,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34213v.jpg",
+            "data": {
+                "width": 724,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34213_150px.jpg",
+                "data": {
+                    "width": 106,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34214v.jpg",
+            "data": {
+                "width": 726,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34214_150px.jpg",
+                "data": {
+                    "width": 106,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34215v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 725,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34215_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33870v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 714,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33870_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34216v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34216_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34224v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 730,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34224_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34225v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 729,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34225_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34226v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 725,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34226_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34217v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 726,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34200/1a34217_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34191v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 729,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34191_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34192v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 732,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34192_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34193v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 725,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34193_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34194v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 721,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34194_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34195v.jpg",
+            "data": {
+                "width": 732,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34195_150px.jpg",
+                "data": {
+                    "width": 107,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33871v.jpg",
+            "data": {
+                "width": 730,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33871_150px.jpg",
+                "data": {
+                    "width": 107,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34196v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 700,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34196_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 102,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34197v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 722,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34197_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34198v.jpg",
+            "data": {
+                "width": 718,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34198_150px.jpg",
+                "data": {
+                    "width": 105,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34199v.jpg",
+            "data": {
+                "width": 716,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34199_150px.jpg",
+                "data": {
+                    "width": 105,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34171v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 724,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34171_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34172v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 719,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34172_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34173v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 713,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34173_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 104,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34174v.jpg",
+            "data": {
+                "width": 719,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34174_150px.jpg",
+                "data": {
+                    "width": 105,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34185v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 733,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34185_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34175v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34175_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33872v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 716,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a33000/1a33800/1a33872_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34176v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 722,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34176_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34177v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 719,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34177_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 105,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34178v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 722,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34178_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34179v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 729,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34179_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 107,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34180v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34180_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34186v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 751,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34186_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 110,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34187v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 727,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34187_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34188v.jpg",
+            "data": {
+                "width": 729,
+                "height": 1024,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34188_150px.jpg",
+                "data": {
+                    "width": 107,
+                    "height": 150,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
+        },
+        {
+            "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34181v.jpg",
+            "data": {
+                "width": 1024,
+                "height": 725,
+                "exif_data": null,
+                "color_mode": "RGB",
+                "bit_depth": 8
+            },
+            "thumbnail": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34100/1a34181_150px.jpg",
+                "data": {
+                    "width": 150,
+                    "height": 106,
+                    "exif_data": null,
+                    "color_mode": "RGB",
+                    "bit_depth": 8
+                }
+            }
         }
     ]
 }
