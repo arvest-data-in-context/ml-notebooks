@@ -9,7 +9,7 @@
 
 # 1. Batch media upload
 
-- **Upload media from your computer** | [colab 🚧]() | [local 🚧]()
+- **Upload media from your computer** | [colab 🚧](/_colab/arvest/01-upload-media-from-your-compter/01-upload-media-from-your-compter.ipynb) | [local ✅](/_local/arvest/01-upload-media-from-your-compter/01-upload-media-from-your-compter.ipynb)
 - **Link to media that exists online** | [colab 🚧]() | [local 🚧]()
 
 # 2. IIIF Manifest creation
