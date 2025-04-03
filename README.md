@@ -4,7 +4,7 @@ This is a collection of python notebooks that perform common tasks and demonstra
 - They can be run either online in [Google Colab](https://colab.research.google.com/) or locally with tools like [JupyterLab](https://jupyter.org/) or [vs code](https://code.visualstudio.com/).
 - They are also designed to work with [Arvest](https://arvest.app), a free to use web app that allows you to store your corpora online and view and share the results of machine learning processes.
 
-**Please note that these notebooks are pedagogical in tone and configuration. If you are looking for notebooks where all you need to do is drop your media and press play, please visit the [Arvest API Tools](https://github.com/arvest-data-in-context/arvest-api-tools) repo which is designed as a collection of functional tools that follow many of these same workflows.**
+**⚠️ Please note that these notebooks are pedagogical in tone and configuration. If you are looking for notebooks where all you need to do is drop your media and press play, please visit the [Arvest API Tools](https://github.com/arvest-data-in-context/arvest-api-tools) repo which is designed as a collection of functional tools that follow many of these same workflows.**
 
 1. [Usage](#using-the-notebooks)
 2. [Projects](#projects)
