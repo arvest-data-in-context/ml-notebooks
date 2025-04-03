@@ -19,7 +19,7 @@ This is a collection of python notebooks that perform common tasks and demonstra
 
 1. Go to [Google Colabs](https://colab.research.google.com/).
 
-2. `File` > `Open notebook` > `GitHub` > Paste the url of this repo (https://github.com/arvest-data-in-context/ml-notebooks).
+2. `File` > `Open notebook` > `GitHub` > Paste the url of this repo (`https://github.com/arvest-data-in-context/ml-notebooks`).
 
 3. Choose a notebook to run.
 
