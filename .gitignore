@@ -7,3 +7,5 @@ models
 OLD
 docs/todo.md
 *login_private.json
+*_TEMP
+*.npy
