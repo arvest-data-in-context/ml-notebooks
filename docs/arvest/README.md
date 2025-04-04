@@ -15,7 +15,7 @@
 # 2. IIIF Manifest creation
 
 - **Link to Manifest's that exists online** | [colab ✅](/_colab/arvest/03-link-to-online-manifests/03-link-to-online-manifests.ipynb) | [local ✅](/_local/arvest/03-link-to-online-manifests/03-link-to-online-manifests.ipynb)
-- **Create a simple Manifest from image files** | [colab 🚧]() | [local 🚧]()
+- **Create a simple Manifest from image files** | [colab 🚧]() | [local ✅](/_local/arvest/04-create-image-manifest/04-create-image-manifest.ipynb)
 - **Create a simple Manifest from audio files** | [colab 🚧]() | [local 🚧]()
 - **Create a simple Manifest from video files** | [colab 🚧]() | [local 🚧]()
 - **Create a multi-page Manifest** | [colab 🚧]() | [local 🚧]()
