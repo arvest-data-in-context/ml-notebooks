@@ -11,3 +11,13 @@ Windows version needs something like this ?
 !pip install -q git+https://github.com/arvest-data-in-context/gcu > /dev/null 2>&1 # Install the gcu package.
 !conda install -y -c conda-forge ffmpeg > /dev/null 2>&1 # Install ffmpeg for file conversion. TODO: check this is necessary for this notebook.
 !pip install -q git+https://github.com/iiif-prezi/iiif-prezi3.git # Install the iiif-prezi3 package.
+
+
+
+
+https://colab.research.google.com/github/USERNAME/REPO/blob/BRANCH/PATH/TO/NOTEBOOK.ipynb
+
+https://github.com/arvest-data-in-context/ml-notebooks/blob/main/_colab/arvest/01-upload-media-from-your-compter/01-upload-media-from-your-compter.ipynb
+
+
+https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/arvest/01-upload-media-from-your-compter/01-upload-media-from-your-compter.ipynb

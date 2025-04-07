@@ -9,13 +9,13 @@
 
 # 1. Batch media upload
 
-- **Upload media from your computer** | [colab ✅](/_colab/arvest/01-upload-media-from-your-compter/01-upload-media-from-your-compter.ipynb) | [local ✅](/_local/arvest/01-upload-media-from-your-compter/01-upload-media-from-your-compter.ipynb)
-- **Link to media that exists online** | [colab ✅](/_colab/arvest/02-link-to-online-media/02-link-to-online-media.ipynb) | [local ✅](/_local/arvest/02-link-to-online-media/02-link-to-online-media.ipynb)
+- **Upload media from your computer** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/arvest/01-upload-media-from-your-compter/01-upload-media-from-your-compter.ipynb) | [local ✅](/_local/arvest/01-upload-media-from-your-compter/01-upload-media-from-your-compter.ipynb)
+- **Link to media that exists online** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/arvest/02-link-to-online-media/02-link-to-online-media.ipynb) | [local ✅](/_local/arvest/02-link-to-online-media/02-link-to-online-media.ipynb)
 
 # 2. IIIF Manifest creation
 
-- **Link to Manifest's that exists online** | [colab ✅](/_colab/arvest/03-link-to-online-manifests/03-link-to-online-manifests.ipynb) | [local ✅](/_local/arvest/03-link-to-online-manifests/03-link-to-online-manifests.ipynb)
-- **Create a simple Manifest from image files** | [colab 🚧]() | [local ✅](/_local/arvest/04-create-image-manifest/04-create-image-manifest.ipynb)
+- **Link to Manifest's that exists online** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/arvest/03-link-to-online-manifests/03-link-to-online-manifests.ipynb) | [local ✅](/_local/arvest/03-link-to-online-manifests/03-link-to-online-manifests.ipynb)
+- **Create a simple Manifest from image files** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/arvest/04-create-image-manifest/04-create-image-manifest.ipynb) | [local ✅](/_local/arvest/04-create-image-manifest/04-create-image-manifest.ipynb)
 - **Create a simple Manifest from audio files** | [colab 🚧]() | [local 🚧]()
 - **Create a simple Manifest from video files** | [colab 🚧]() | [local 🚧]()
 - **Create a multi-page Manifest** | [colab 🚧]() | [local 🚧]()
