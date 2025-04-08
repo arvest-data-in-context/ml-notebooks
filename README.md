@@ -6,8 +6,9 @@ This is a collection of python notebooks that perform common tasks and demonstra
 
 **⚠️ Please note that these notebooks are pedagogical in tone and configuration. If you are looking for notebooks where all you need to do is drop your media and press play, please visit the [Arvest API Tools](https://github.com/arvest-data-in-context/arvest-api-tools) repo which is designed as a collection of functional tools that follow many of these same workflows.**
 
-1. [Usage](#using-the-notebooks)
-2. [Projects](#projects)
+1. [Usage](#1-using-the-notebooks)
+2. [Content Map](#2-content-map)
+3. [Projects](#3-projects)
 
 # 1. Using the notebooks
 
@@ -27,7 +28,7 @@ Either click on the direct links to open a notebook given in this documentation,
 
 ## In JupyterLab or vs code
 
-1. Clone or download this repo onto your machine (make sure to choose the `jupyter` branch, and not `main`).
+1. Clone or download this repo onto your machine.
 
 2. Choose a notebook from the [_local](/_local/) folder and run.
 

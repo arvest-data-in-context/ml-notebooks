@@ -9,7 +9,7 @@ Here, we proose a number of workflow tutorials which will take you through a num
 
 # 1. Workflows
 
-- **Image embedding projection** | [colab 🚧]() | [local 🚧]()
+- **Image embedding projection** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/workflows/distant-viewing/01-Image-Embeddings-Projection/01-Image-Embeddings-Projection.ipynb) | [local ✅](/_local/workflows/distant-viewing/01-Image-Embeddings-Projection/01-Image-Embeddings-Projection.ipynb)
 - **Video shot decomposition** | [colab 🚧]() | [local 🚧]()
 - **Automatic speech recognition** | [colab 🚧]() | [local 🚧]()
 - **Basic network analysis** | [colab 🚧]() | [local 🚧]()

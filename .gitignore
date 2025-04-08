@@ -5,7 +5,10 @@ models
 *.DS_Store
 .ipynb_checkpoints
 OLD
-docs/todo.md
+*todo.md
 *login_private.json
 *_TEMP
 *.npy
+
+_colab/arvest/_iiif-manifest-creation
+_local/arvest/_iiif-manifest-creation
