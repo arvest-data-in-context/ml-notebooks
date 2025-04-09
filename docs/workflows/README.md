@@ -11,5 +11,5 @@ Here, we proose a number of workflow tutorials which will take you through a num
 
 - **Image embedding projection** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/workflows/distant-viewing/01-Image-Embeddings-Projection/01-Image-Embeddings-Projection.ipynb) | [local ✅](/_local/workflows/distant-viewing/01-Image-Embeddings-Projection/01-Image-Embeddings-Projection.ipynb)
 - **Video shot decomposition** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/workflows/distant-viewing/02-Video-Shot-Decomposition/02-Video-Shot-Decomposition.ipynb) | [local ✅](/_local/workflows/distant-viewing/02-Video-Shot-Decomposition/02-Video-Shot-Decomposition.ipynb)
-- **Automatic speech recognition** | [colab 🚧]() | [local 🚧]()
+- **Automatic speech recognition** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/workflows/distant-listening/01-Audio-Speech-Recognition/01-Audio-Speech-Recognition.ipynb) | [local ✅](/_local/workflows/distant-listening/01-Audio-Speech-Recognition/01-Audio-Speech-Recognition.ipynb)
 - **Basic network analysis** | [colab 🚧]() | [local 🚧]()
