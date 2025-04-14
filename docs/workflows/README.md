@@ -15,7 +15,7 @@ Here, we proose a number of workflow tutorials which will take you through a num
 - **Automatic speech recognition** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/workflows/distant-listening/01-Audio-Speech-Recognition/01-Audio-Speech-Recognition.ipynb) | [local ✅](/_local/workflows/distant-listening/01-Audio-Speech-Recognition/01-Audio-Speech-Recognition.ipynb)
 
 # 3. Network analysis
-- **Basic network analysis** | [colab 🚧]() | [local 🚧]()
+- **Basic network analysis** | [colab ✅](https://colab.research.google.com/github/arvest-data-in-context/ml-notebooks/blob/main/_colab/workflows/network-analysis/01-basic-network-analysis/01-basic-network-analysis.ipynb) | [local ✅](/_local/workflows/network-analysis/01-basic-network-analysis/01-basic-network-analysis.ipynb)
 
 # 4. Corpus creation
 - **Folder to IIIF Manifest collection** | [colab 🚧]() | [local ✅](/_local/workflows/corpora/02-File-Corpus/02-File-Corpus.ipynb)
