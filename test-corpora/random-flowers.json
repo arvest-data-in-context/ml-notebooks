@@ -1,0 +1,1404 @@
+{
+    "images": [
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05890.jpg",
+            "data": {
+                "width": 514,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05106.jpg",
+            "data": {
+                "width": 500,
+                "height": 597
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01770.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02047.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05700.jpg",
+            "data": {
+                "width": 516,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04345.jpg",
+            "data": {
+                "width": 609,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02052.jpg",
+            "data": {
+                "width": 501,
+                "height": 667
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00645.jpg",
+            "data": {
+                "width": 631,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00686.jpg",
+            "data": {
+                "width": 751,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00309.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01942.jpg",
+            "data": {
+                "width": 667,
+                "height": 501
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01611.jpg",
+            "data": {
+                "width": 500,
+                "height": 667
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00057.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02898.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06340.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06395.jpg",
+            "data": {
+                "width": 500,
+                "height": 815
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05844.jpg",
+            "data": {
+                "width": 518,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07909.jpg",
+            "data": {
+                "width": 501,
+                "height": 508
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02130.jpg",
+            "data": {
+                "width": 668,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05059.jpg",
+            "data": {
+                "width": 559,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04434.jpg",
+            "data": {
+                "width": 500,
+                "height": 591
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06586.jpg",
+            "data": {
+                "width": 673,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02086.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02092.jpg",
+            "data": {
+                "width": 693,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03159.jpg",
+            "data": {
+                "width": 500,
+                "height": 750
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00444.jpg",
+            "data": {
+                "width": 693,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01955.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01835.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04550.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02135.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02445.jpg",
+            "data": {
+                "width": 500,
+                "height": 764
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03607.jpg",
+            "data": {
+                "width": 664,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05706.jpg",
+            "data": {
+                "width": 750,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01549.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06742.jpg",
+            "data": {
+                "width": 553,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_08009.jpg",
+            "data": {
+                "width": 577,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02256.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04141.jpg",
+            "data": {
+                "width": 666,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04169.jpg",
+            "data": {
+                "width": 758,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01777.jpg",
+            "data": {
+                "width": 719,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06193.jpg",
+            "data": {
+                "width": 625,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06434.jpg",
+            "data": {
+                "width": 637,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06378.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01826.jpg",
+            "data": {
+                "width": 705,
+                "height": 501
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03943.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02452.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00251.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02283.jpg",
+            "data": {
+                "width": 530,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07489.jpg",
+            "data": {
+                "width": 747,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07310.jpg",
+            "data": {
+                "width": 557,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06026.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04625.jpg",
+            "data": {
+                "width": 721,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06972.jpg",
+            "data": {
+                "width": 611,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00522.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04694.jpg",
+            "data": {
+                "width": 665,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00343.jpg",
+            "data": {
+                "width": 678,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01538.jpg",
+            "data": {
+                "width": 667,
+                "height": 501
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02031.jpg",
+            "data": {
+                "width": 750,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00815.jpg",
+            "data": {
+                "width": 604,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01706.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01048.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_08124.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04911.jpg",
+            "data": {
+                "width": 678,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00977.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01843.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04683.jpg",
+            "data": {
+                "width": 666,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04873.jpg",
+            "data": {
+                "width": 577,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06725.jpg",
+            "data": {
+                "width": 699,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01062.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06296.jpg",
+            "data": {
+                "width": 500,
+                "height": 745
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03339.jpg",
+            "data": {
+                "width": 625,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02999.jpg",
+            "data": {
+                "width": 500,
+                "height": 752
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01261.jpg",
+            "data": {
+                "width": 783,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02387.jpg",
+            "data": {
+                "width": 500,
+                "height": 755
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03264.jpg",
+            "data": {
+                "width": 755,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07984.jpg",
+            "data": {
+                "width": 699,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06292.jpg",
+            "data": {
+                "width": 500,
+                "height": 752
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02962.jpg",
+            "data": {
+                "width": 755,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04863.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00973.jpg",
+            "data": {
+                "width": 558,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04518.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07005.jpg",
+            "data": {
+                "width": 500,
+                "height": 657
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04242.jpg",
+            "data": {
+                "width": 518,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04530.jpg",
+            "data": {
+                "width": 666,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03934.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07213.jpg",
+            "data": {
+                "width": 658,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05404.jpg",
+            "data": {
+                "width": 528,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03707.jpg",
+            "data": {
+                "width": 514,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06657.jpg",
+            "data": {
+                "width": 691,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00232.jpg",
+            "data": {
+                "width": 670,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01919.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02949.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00810.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03882.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05805.jpg",
+            "data": {
+                "width": 748,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03509.jpg",
+            "data": {
+                "width": 500,
+                "height": 750
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01444.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06698.jpg",
+            "data": {
+                "width": 521,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_08110.jpg",
+            "data": {
+                "width": 500,
+                "height": 522
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02993.jpg",
+            "data": {
+                "width": 500,
+                "height": 752
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01727.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04893.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06712.jpg",
+            "data": {
+                "width": 500,
+                "height": 528
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02206.jpg",
+            "data": {
+                "width": 748,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05353.jpg",
+            "data": {
+                "width": 624,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03044.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03939.jpg",
+            "data": {
+                "width": 666,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01684.jpg",
+            "data": {
+                "width": 589,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07975.jpg",
+            "data": {
+                "width": 501,
+                "height": 605
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01309.jpg",
+            "data": {
+                "width": 748,
+                "height": 501
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02562.jpg",
+            "data": {
+                "width": 637,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01043.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00349.jpg",
+            "data": {
+                "width": 750,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07181.jpg",
+            "data": {
+                "width": 513,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04338.jpg",
+            "data": {
+                "width": 632,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04462.jpg",
+            "data": {
+                "width": 501,
+                "height": 553
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05797.jpg",
+            "data": {
+                "width": 521,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04728.jpg",
+            "data": {
+                "width": 753,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07590.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03537.jpg",
+            "data": {
+                "width": 751,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00943.jpg",
+            "data": {
+                "width": 742,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05803.jpg",
+            "data": {
+                "width": 666,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03527.jpg",
+            "data": {
+                "width": 545,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06729.jpg",
+            "data": {
+                "width": 688,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00364.jpg",
+            "data": {
+                "width": 654,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00827.jpg",
+            "data": {
+                "width": 663,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07806.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01244.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02016.jpg",
+            "data": {
+                "width": 728,
+                "height": 501
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01523.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06700.jpg",
+            "data": {
+                "width": 542,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01669.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00991.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03297.jpg",
+            "data": {
+                "width": 701,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05828.jpg",
+            "data": {
+                "width": 535,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06851.jpg",
+            "data": {
+                "width": 718,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05431.jpg",
+            "data": {
+                "width": 637,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05948.jpg",
+            "data": {
+                "width": 511,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02014.jpg",
+            "data": {
+                "width": 750,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07637.jpg",
+            "data": {
+                "width": 500,
+                "height": 678
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01252.jpg",
+            "data": {
+                "width": 777,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02565.jpg",
+            "data": {
+                "width": 750,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01871.jpg",
+            "data": {
+                "width": 750,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05381.jpg",
+            "data": {
+                "width": 683,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06475.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05632.jpg",
+            "data": {
+                "width": 500,
+                "height": 735
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01483.jpg",
+            "data": {
+                "width": 598,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01976.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04629.jpg",
+            "data": {
+                "width": 653,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05245.jpg",
+            "data": {
+                "width": 687,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00842.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03436.jpg",
+            "data": {
+                "width": 500,
+                "height": 612
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00472.jpg",
+            "data": {
+                "width": 500,
+                "height": 610
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04199.jpg",
+            "data": {
+                "width": 500,
+                "height": 575
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04990.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00506.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07719.jpg",
+            "data": {
+                "width": 594,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00937.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05871.jpg",
+            "data": {
+                "width": 625,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02663.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01815.jpg",
+            "data": {
+                "width": 500,
+                "height": 507
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00276.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03025.jpg",
+            "data": {
+                "width": 500,
+                "height": 698
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03804.jpg",
+            "data": {
+                "width": 501,
+                "height": 724
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02267.jpg",
+            "data": {
+                "width": 724,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02501.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05520.jpg",
+            "data": {
+                "width": 539,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00869.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00841.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07685.jpg",
+            "data": {
+                "width": 500,
+                "height": 568
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03385.jpg",
+            "data": {
+                "width": 500,
+                "height": 650
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06000.jpg",
+            "data": {
+                "width": 665,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05333.jpg",
+            "data": {
+                "width": 500,
+                "height": 567
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03024.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04565.jpg",
+            "data": {
+                "width": 582,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07332.jpg",
+            "data": {
+                "width": 500,
+                "height": 750
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02935.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01568.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00110.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04362.jpg",
+            "data": {
+                "width": 664,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02263.jpg",
+            "data": {
+                "width": 666,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04148.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_00266.jpg",
+            "data": {
+                "width": 781,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_08160.jpg",
+            "data": {
+                "width": 773,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07247.jpg",
+            "data": {
+                "width": 500,
+                "height": 752
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_02840.jpg",
+            "data": {
+                "width": 752,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_05650.jpg",
+            "data": {
+                "width": 500,
+                "height": 701
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03209.jpg",
+            "data": {
+                "width": 500,
+                "height": 752
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_03779.jpg",
+            "data": {
+                "width": 825,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06601.jpg",
+            "data": {
+                "width": 500,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06167.jpg",
+            "data": {
+                "width": 500,
+                "height": 711
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06946.jpg",
+            "data": {
+                "width": 731,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07494.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06775.jpg",
+            "data": {
+                "width": 541,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_01224.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04349.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_04639.jpg",
+            "data": {
+                "width": 645,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06953.jpg",
+            "data": {
+                "width": 688,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_06358.jpg",
+            "data": {
+                "width": 700,
+                "height": 500
+            }
+        },
+        {
+            "url": "https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/test-corpora/flowers/image_07085.jpg",
+            "data": {
+                "width": 667,
+                "height": 500
+            }
+        }
+    ]
+}
